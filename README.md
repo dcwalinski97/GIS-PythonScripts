@@ -7,7 +7,7 @@ These are scripts that I modified and use while using ArcGIS Pro. If you want to
 
 **CBYD DB Builder:**
 
-This script takes Microsoft Exchange attachments, converts to text files, stores said files, and then scrapes for important infomration regarding Call Before You Dig tickets.
+This script takes Microsoft Exchange attachments, converts to text files, stores said files, and then scrapes for important information regarding Call Before You Dig tickets.
 
 
 **CBYD into Points:**
